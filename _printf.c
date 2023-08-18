@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _printf - a function to implement the inbuilt printf
+ * _printf - A function to implement the inbuilt printf
  * @format: the format specifier
  * Return: string
  */
